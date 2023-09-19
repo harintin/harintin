@@ -1,3 +1,5 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=100&section=header&text=WELCOME%20TO%20MY%20GITHUB!&fontSize=30&fontColor=ffffff)
 
 ### 🖤🤍🖤
@@ -23,3 +25,4 @@
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harintin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>

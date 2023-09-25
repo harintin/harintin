@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=black&height=100&section=header&text=WELCOME%20TO%20MY%20GITHUB!&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=slice&color=black&height=200&section=header&text=WELCOME%20TO%20MY%20GITHUB!&animation=fadeIn&fontSize=20&fontColor=ffffff&rotate=13&fontAlign=70&fontAlignY=30)
 
 ### 🖤🤍🖤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=34&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=%EA%B0%90%EA%B0%81%EC%A0%81%EC%9D%B4%EA%B3%A0+%ED%8E%B8%EB%A6%AC%ED%95%9C+%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84+%ED%95%98%EA%B3%A0+%EC%8B%B6%EC%9D%80+UI%2FUX+%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88+%26+%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94+%EC%B5%9C%ED%95%98%EB%A6%B0%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg) 
@@ -24,7 +24,7 @@
 <br>
 <hr>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harintin&repo=harintin.github.io)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harintin&repo=harin---korean-national-ballet)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harintin&repo=harintin.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harintin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
